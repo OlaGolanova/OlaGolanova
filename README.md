@@ -1,5 +1,5 @@
-<h1 align="center">Hello, world  <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="100"/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">I'm Ola. Frontend developer</h3>
+<h1 align="center">Hello, world  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">I'm Ola. Frontend developer  <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="100"/></h3>
 
 
 <!--
