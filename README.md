@@ -1,7 +1,11 @@
 <h1 align="center">Hello, world  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <div align="center"> <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="200"/></div>
-<h3 align="center">I'm Ola. Frontend developer</h3>
+<h3 align="center">I'm Ola Golanova. Frontend developer</h3>
 
+
+<br>
+<h3 align="left">Connect with me</h3>
+<p align="left">   <a href="https://t.me/musicola" target="blank"><img align="center" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/icons8-new-message-delivery-25.png?raw=true" alt="OlaGolanova" height="18" width="18" />   Telegram</a> 
 
 <!--
 **OlaGolanova/OlaGolanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
