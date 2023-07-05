@@ -1,4 +1,5 @@
-# HELLO WORD!!!
+<h1 align="center">Hello, world <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">I'm Ola. Frontend developer</h3>
  <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="1000"/>
 </div>
 <!--
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
