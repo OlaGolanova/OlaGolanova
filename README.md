@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<div> <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="200"/></div>
+<div align="center"> <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="200"/></div>
 <h3 align="center">I'm Ola. Frontend developer</h3>
 
 
