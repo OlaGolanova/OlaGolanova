@@ -3,11 +3,11 @@
 <h3 align="center">I'm Ola Golanova. Frontend developer</h3>
 <h3 align="center">I love JS and learning react</h3>
 
-✨✨✨ Recently finished part of the logic for an information-educational project about cities and countries [BigCities](olagolanova.github.io/BigCities/) ✨✨✨ 
+✨ Recently finished part of the logic for an information-educational project about cities and countries [BigCities](olagolanova.github.io/BigCities/) 
 
 <br>
-<h3 align="center">Connect with me</h3>
-<p align="center">   <a href="https://t.me/musicola" target="blank"><img align="center" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/icons8-new-message-delivery-25.png?raw=true" alt="OlaGolanova" height="18" width="18" />   Telegram</a> 
+<h3 align="left">Connect with me</h3>
+<p align="left">   <a href="https://t.me/musicola" target="blank"><img align="center" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/icons8-new-message-delivery-25.png?raw=true" alt="OlaGolanova" height="18" width="18" />   Telegram</a> 
 
  <br>
 <h3 align="center">Skills</h3> 
