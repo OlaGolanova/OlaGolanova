@@ -40,6 +40,10 @@
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/preact-color.svg" alt="react" height="18" width="18">
+            </td>
         </tr>
     </tbody>
 </table>
