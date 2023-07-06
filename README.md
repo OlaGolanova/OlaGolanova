@@ -6,7 +6,15 @@ I plan to learn TypeScript. I'm  interested JS animation, GSAP animation.</h3>
 
 ✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities](olagolanova.github.io/BigCities/) 
 <br>
+
 ✨ If you need to calculate the dose of antipyretic [Antipyretic_calculator](https://olagolanova.github.io/Antipyretic_calculator/) 
+<br>
+
+✨ Choose your super hero  [Week18_JSON](olagolanova.github.io/Week18_JSON/) 
+<br>
+
+✨ Book a beauty salon  [Place21 ](olagolanova.github.io/Place21/) 
+<br>
 
 <hr>
 
