@@ -4,7 +4,8 @@
 <h3 align="center">I love JS and learning REACT. 
 I plan to learn TypeScript and continue to learn GSAP animation.</h3>
 
-✨ Recently finished part of the logic for an information-educational project about cities and countries [BigCities](olagolanova.github.io/BigCities/) 
+✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities](olagolanova.github.io/BigCities/) 
+✨ If you need to calculate the dose of antipyretic [Antipyretic_calculator](https://olagolanova.github.io/Antipyretic_calculator/) 
 
 <hr>
 
