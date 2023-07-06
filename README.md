@@ -22,13 +22,25 @@
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
             <td width="80px" align="center">
+            <span><strong>SASS</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/sass-color.svg">
+            </td>
+            <td width="80px" align="center">
             <span><strong>VSC</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>JS</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-            </td>           
+            </td>
+              <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/bootstrap-color.svg" alt="bootstrap">
+            </td>      
+              <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/preact-color.svg" alt="react">
+            </td>     
             <td width="80px" align="center">
             <span><strong>npm</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
@@ -40,9 +52,9 @@
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/preact-color.svg" alt="react">
+             <td width="80px" align="center">
+            <span><strong>NODE.JS</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/nodedotjs-color.svg">
             </td>
         </tr>
     </tbody>
