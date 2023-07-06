@@ -8,7 +8,7 @@
 <p align="left">   <a href="https://t.me/musicola" target="blank"><img align="center" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/icons8-new-message-delivery-25.png?raw=true" alt="OlaGolanova" height="18" width="18" />   Telegram</a> 
 
  <br>
-<h3 align="left">Skills</h3> 
+<h3 align="center">Skills</h3> 
 
   <table width="320px">
     <tbody>
@@ -60,7 +60,8 @@
     </tbody>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaGolanova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <hr>
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaGolanova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div> 
 <!--
 **OlaGolanova/OlaGolanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
