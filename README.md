@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <div align="center"> <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="200"/></div>
 <h3 align="center">I'm Ola Golanova. Frontend developer</h3>
-<h3 align="center">I love JS and learning react</h3>
+<h3 align="center">I love JS and learning REACT</h3>
 
 ✨ Recently finished part of the logic for an information-educational project about cities and countries [BigCities](olagolanova.github.io/BigCities/) 
 
