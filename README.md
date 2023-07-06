@@ -42,7 +42,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
-            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/preact-color.svg" alt="react" height="18" width="18">
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/preact-color.svg" alt="react">
             </td>
         </tr>
     </tbody>
