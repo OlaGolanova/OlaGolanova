@@ -5,6 +5,8 @@
 
 ✨ Recently finished part of the logic for an information-educational project about cities and countries [BigCities](olagolanova.github.io/BigCities/) 
 
+<hr>
+
 <br>
 <h3 align="left">Connect with me</h3>
 <p align="left">   <a href="https://t.me/musicola" target="blank"><img align="center" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/icons8-new-message-delivery-25.png?raw=true" alt="OlaGolanova" height="18" width="18" />   Telegram</a> 
