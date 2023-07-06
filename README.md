@@ -30,10 +30,6 @@
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
             </td>           
             <td width="80px" align="center">
-            <span><strong>PS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-            </td>
-            <td width="80px" align="center">
             <span><strong>npm</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
             </td>
@@ -48,6 +44,7 @@
     </tbody>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=OlaGolanova)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **OlaGolanova/OlaGolanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
