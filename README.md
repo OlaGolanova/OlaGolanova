@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="200"/></div>
 <h3 align="center">I'm Ola Golanova. Frontend developer</h3>
 <h3 align="center">I love JS and learning REACT. 
-I plan to learn TypeScript. I'm  interested JS animation, GSAP animation.</h3>
+Plan to learn TypeScript. I'm  interested JS animation.</h3>
 
 ✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities](olagolanova.github.io/BigCities/) 
 <br>
