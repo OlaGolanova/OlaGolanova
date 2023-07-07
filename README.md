@@ -4,7 +4,7 @@
 <h3 align="center">I love JS and learning REACT. 
 Plan to learn TypeScript and Redux. I'm  interested JS animation.</h3>
 
-✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities]https://(olagolanova.github.io/BigCities/) 
+✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities](https://olagolanova.github.io/BigCities/) 
 <br>
 
 ✨ If you need to calculate the dose of antipyretic [Antipyretic_calculator](https://olagolanova.github.io/Antipyretic_calculator/) 
