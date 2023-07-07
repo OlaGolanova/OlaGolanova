@@ -4,16 +4,16 @@
 <h3 align="center">I love JS and learning REACT. 
 Plan to learn TypeScript and Redux. I'm  interested JS animation.</h3>
 
-✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities](olagolanova.github.io/BigCities/) 
+✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities]https://(olagolanova.github.io/BigCities/) 
 <br>
 
 ✨ If you need to calculate the dose of antipyretic [Antipyretic_calculator](https://olagolanova.github.io/Antipyretic_calculator/) 
 <br>
 
-✨ If you want to choose your super hero  [Week18_JSON](olagolanova.github.io/Week18_JSON/) 
+✨ If you want to choose your super hero  [SuperHeroes](https://olagolanova.github.io/SuperHeroes/)
 <br>
 
-✨ Else book a beauty salon  [Place21 ](olagolanova.github.io/Place21/) 
+✨ Else book a beauty salon  [Place21 ](https://olagolanova.github.io/Place21/) 
 <br>
 
 <hr>
