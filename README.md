@@ -91,7 +91,7 @@ Plan to learn TypeScript and Redux. I'm  interested JS animation.</h3>
             <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/chartdotjs-color.svg" alt="chartjs">
             </td>
               <td width="80px" align="center">
-            <span><strong>Styled<br>Components</strong></span><br>
+            <span><strong>StyledComponents</strong></span><br>
             <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/styledcomponents-color.svg" alt="StyledComponent">
             </td>
               <td width="80px" align="center">
