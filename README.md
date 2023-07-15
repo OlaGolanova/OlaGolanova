@@ -68,10 +68,10 @@ Plan to learn TypeScript and Redux. I'm  interested JS animation.</h3>
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
             </td>
-            <td width="80px" align="center">
+            <!-- <td width="80px" align="center">
             <span><strong>Node.js</strong></span><br>
             <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/nodedotjs-color.svg" alt="react">
-            </td>
+            </td> -->
         </tr>
          <tr valign="top">
               <td width="80px" align="center">
