@@ -82,6 +82,22 @@ Plan to learn TypeScript and Redux. I'm  interested JS animation.</h3>
             <span><strong>Webpack</strong></span><br>
             <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/webpack-color.svg" alt="Webpack">
             </td>
+             <td width="80px" align="center">
+            <span><strong>GreenSock</strong></span><br>
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/greensock-color.svg" alt="GreenSock">
+            </td>
+              <td width="80px" align="center">
+            <span><strong>Chart.js</strong></span><br>
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/chartdotjs-color.svg" alt="chartjs">
+            </td>
+              <td width="80px" align="center">
+            <span><strong>StyledComponents</strong></span><br>
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/styledcomponents-color.svg" alt="StyledComponent">
+            </td>
+              <td width="80px" align="center">
+            <span><strong>Swiper.js</strong></span><br>
+            <img height="32px" src="https://github.com/OlaGolanova/OlaGolanova/blob/main/swiper-color.svg" alt="swiper">
+            </td>
          </tr>
     </tbody>
 </table>
