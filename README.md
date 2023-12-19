@@ -1,20 +1,6 @@
 <h1 align="center">Hello, world  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <!-- <div align="center"> <img src="https://media.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif" width="200"/></div> -->
 <h3 align="center">I'm Ola Golanova. Frontend developer</h3>
-<h3 align="center">I love JS and learning REACT. 
-Plan to learn TypeScript and Redux. I'm  interested JS animation.</h3>
-
-✨ If you want to learn new things about the largest cities in the world: weather, interesting facts, local time [BigCities](https://olagolanova.github.io/BigCities/) 
-<br>
-
-✨ If you need to calculate the dose of antipyretic [Antipyretic_calculator](https://olagolanova.github.io/Antipyretic_calculator/) 
-<br>
-
-✨ If you want to choose your super hero  [SuperHeroes](https://olagolanova.github.io/SuperHeroes/)
-<br>
-
-✨ Else book a beauty salon  [Place21 ](https://olagolanova.github.io/Place21/) 
-<br>
 
 <hr>
 
